@@ -36,4 +36,6 @@ public class No2525 {
 		System.out.println(hour + " " + minute);
 	}
 
+	
+	
 }
